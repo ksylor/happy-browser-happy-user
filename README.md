@@ -1,4 +1,4 @@
-# happy-browser-happy-user
+# Happy Browser, Happy User
 Resources &amp; Links for learning more about browsers
 
 ## Browser Architecture:

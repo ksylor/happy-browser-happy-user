@@ -55,9 +55,6 @@ https://css-tricks.com/an-introduction-and-guide-to-the-css-object-model-cssom/
 Javascript startup optimization - Addy Osmani
 https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/javascript-startup-optimization/
 
-JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer / JSConf EU 2018
-https://www.youtube.com/watch?v=5nmpokoRaZI
-
 ## Rendering & Compositing:
 
 Rendering performance inside out – Martin Splitt / Front-Trends 2017
@@ -74,3 +71,31 @@ https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka
 
 Accelerated Rendering in Chrome: The layer model - Tom Wiltzius
 https://www.html5rocks.com/en/tutorials/speed/layers/
+
+What forces layout / reflow - Paul Irish
+https://gist.github.com/paulirish/5d52fb081b3570c81e3a
+
+## Interaction & JS execution
+
+JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer / JSConf EU 2018
+https://www.youtube.com/watch?v=5nmpokoRaZI
+
+The Javascript event loop - Flavio Copes
+https://flaviocopes.com/javascript-event-loop/
+
+Jank Free
+http://jankfree.org/
+
+What is first input delay? - Ire Aderinokun
+https://bitsofco.de/what-is-first-input-delay/
+
+## Great books on general performance topics! 
+
+Designing for performance - Lara Hogan
+http://designingforperformance.com
+
+Web Performance in Action - Jeremy Wagner
+https://www.manning.com/books/web-performance-in-action
+
+High performance mobile web - Maximiliano Firtman
+http://shop.oreilly.com/product/0636920035060.do

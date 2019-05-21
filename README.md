@@ -57,7 +57,7 @@ https://developers.google.com/web/fundamentals/performance/optimizing-content-ef
 
 ## Rendering & Compositing:
 
-Rendering performance inside out – Martin Splitt / Front-Trends 2017
+**Rendering performance inside out – Martin Splitt / Front-Trends 2017**
 https://www.youtube.com/watch?v=BfMWAIc0xSU
 
 Rendering performance (and all child pages!) - Google Web Fundamentals - Paul Lewis
@@ -76,6 +76,9 @@ What forces layout / reflow - Paul Irish
 https://gist.github.com/paulirish/5d52fb081b3570c81e3a
 
 ## Interaction & JS execution
+
+Why web developers need to care about interactivity - Philip Walton
+https://philipwalton.com/articles/why-web-developers-need-to-care-about-interactivity/
 
 JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer / JSConf EU 2018
 https://www.youtube.com/watch?v=5nmpokoRaZI

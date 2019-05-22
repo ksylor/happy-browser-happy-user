@@ -75,7 +75,13 @@ https://www.html5rocks.com/en/tutorials/speed/layers/
 What forces layout / reflow - Paul Irish
 https://gist.github.com/paulirish/5d52fb081b3570c81e3a
 
+The five whys of web font loading performance - Zach Leatherman / Performance.now() 2018
+https://vimeo.com/304099438
+
 ## Interaction & JS execution
+
+**The cost of Javascript - Addy Osmani**
+https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4
 
 Why web developers need to care about interactivity - Philip Walton
 https://philipwalton.com/articles/why-web-developers-need-to-care-about-interactivity/

@@ -1,5 +1,8 @@
 # Happy Browser, Happy User
-Resources &amp; Links for learning more about browsers
+Resources &amp; Links for learning more about how browsers work and deep dives into web performance.
+
+## Watch the talk! 
+https://www.youtube.com/watch?v=VAKD_Ob0XTQ
 
 ## Browser Architecture:
 

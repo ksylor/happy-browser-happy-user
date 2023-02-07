@@ -4,6 +4,8 @@ Resources &amp; Links for learning more about how browsers work and deep dives i
 ## Watch the talk! 
 https://www.youtube.com/watch?v=VAKD_Ob0XTQ
 
+Slides are available here: https://www.slideshare.net/KatrinaSylorMiller/happy-browser-happy-user-perfmatters-conference-2019
+
 ## Browser Architecture:
 
 **Inside Look at Modern Web Browsers (Parts 1-4) - Mariko Kosakara**
